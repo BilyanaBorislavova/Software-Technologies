@@ -1,0 +1,2 @@
+Alt + Shift
+Ctrl + E, Ctrl + F

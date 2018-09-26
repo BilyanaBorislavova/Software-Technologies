@@ -1,0 +1,12 @@
+C:\Users\Toch\Documents\Visual Studio 2017\Projects\BookLibraryApp\BookLibraryApp\bin\Debug\netcoreapp2.0\BookLibraryApp.deps.json
+C:\Users\Toch\Documents\Visual Studio 2017\Projects\BookLibraryApp\BookLibraryApp\bin\Debug\netcoreapp2.0\BookLibraryApp.runtimeconfig.json
+C:\Users\Toch\Documents\Visual Studio 2017\Projects\BookLibraryApp\BookLibraryApp\bin\Debug\netcoreapp2.0\BookLibraryApp.runtimeconfig.dev.json
+C:\Users\Toch\Documents\Visual Studio 2017\Projects\BookLibraryApp\BookLibraryApp\bin\Debug\netcoreapp2.0\BookLibraryApp.dll
+C:\Users\Toch\Documents\Visual Studio 2017\Projects\BookLibraryApp\BookLibraryApp\obj\Debug\netcoreapp2.0\BookLibraryApp.csprojResolveAssemblyReference.cache
+C:\Users\Toch\Documents\Visual Studio 2017\Projects\BookLibraryApp\BookLibraryApp\obj\Debug\netcoreapp2.0\BookLibraryApp.csproj.CoreCompileInputs.cache
+C:\Users\Toch\Documents\Visual Studio 2017\Projects\BookLibraryApp\BookLibraryApp\obj\Debug\netcoreapp2.0\BookLibraryApp.AssemblyInfoInputs.cache
+C:\Users\Toch\Documents\Visual Studio 2017\Projects\BookLibraryApp\BookLibraryApp\obj\Debug\netcoreapp2.0\BookLibraryApp.AssemblyInfo.cs
+C:\Users\Toch\Documents\Visual Studio 2017\Projects\BookLibraryApp\BookLibraryApp\bin\Debug\netcoreapp2.0\BookLibraryApp.pdb
+C:\Users\Toch\Documents\Visual Studio 2017\Projects\BookLibraryApp\BookLibraryApp\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\Toch\Documents\Visual Studio 2017\Projects\BookLibraryApp\BookLibraryApp\obj\Debug\netcoreapp2.0\BookLibraryApp.dll
+C:\Users\Toch\Documents\Visual Studio 2017\Projects\BookLibraryApp\BookLibraryApp\obj\Debug\netcoreapp2.0\BookLibraryApp.pdb

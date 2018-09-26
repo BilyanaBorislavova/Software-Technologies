@@ -1,0 +1,12 @@
+C:\Users\Toch\Documents\Visual Studio 2017\Projects\BlogSoftUni\BlogSoftUni\bin\Debug\netcoreapp2.0\BlogSoftUni.deps.json
+C:\Users\Toch\Documents\Visual Studio 2017\Projects\BlogSoftUni\BlogSoftUni\bin\Debug\netcoreapp2.0\BlogSoftUni.runtimeconfig.json
+C:\Users\Toch\Documents\Visual Studio 2017\Projects\BlogSoftUni\BlogSoftUni\bin\Debug\netcoreapp2.0\BlogSoftUni.runtimeconfig.dev.json
+C:\Users\Toch\Documents\Visual Studio 2017\Projects\BlogSoftUni\BlogSoftUni\bin\Debug\netcoreapp2.0\BlogSoftUni.dll
+C:\Users\Toch\Documents\Visual Studio 2017\Projects\BlogSoftUni\BlogSoftUni\obj\Debug\netcoreapp2.0\BlogSoftUni.csprojResolveAssemblyReference.cache
+C:\Users\Toch\Documents\Visual Studio 2017\Projects\BlogSoftUni\BlogSoftUni\obj\Debug\netcoreapp2.0\BlogSoftUni.csproj.CoreCompileInputs.cache
+C:\Users\Toch\Documents\Visual Studio 2017\Projects\BlogSoftUni\BlogSoftUni\obj\Debug\netcoreapp2.0\BlogSoftUni.AssemblyInfoInputs.cache
+C:\Users\Toch\Documents\Visual Studio 2017\Projects\BlogSoftUni\BlogSoftUni\obj\Debug\netcoreapp2.0\BlogSoftUni.AssemblyInfo.cs
+C:\Users\Toch\Documents\Visual Studio 2017\Projects\BlogSoftUni\BlogSoftUni\bin\Debug\netcoreapp2.0\BlogSoftUni.pdb
+C:\Users\Toch\Documents\Visual Studio 2017\Projects\BlogSoftUni\BlogSoftUni\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\Toch\Documents\Visual Studio 2017\Projects\BlogSoftUni\BlogSoftUni\obj\Debug\netcoreapp2.0\BlogSoftUni.dll
+C:\Users\Toch\Documents\Visual Studio 2017\Projects\BlogSoftUni\BlogSoftUni\obj\Debug\netcoreapp2.0\BlogSoftUni.pdb
